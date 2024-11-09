@@ -14,18 +14,6 @@ This project provides a dynamic survey form that adapts based on the user’s pr
 
 ---------------------------------------------
 
-
----------------------------------------------
-
-- [Project Objective](#project-objective)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation Instructions](#installation-instructions)
-- [Usage Instructions](#usage-instructions)
-
----------------------------------------------
-
 ## Project Objective
 
 The objective of this project is to dynamically adjust survey content according to the user's answers. This approach ensures that users only engage with questions relevant to them, making the survey experience more personal. At the end, a customized survey result is displayed based on the user's answers.
