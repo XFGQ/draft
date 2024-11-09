@@ -1,5 +1,19 @@
-# Dynamic Survey Form
-This project provides a dynamic survey form that adapts based on the user’s previous responses, creating a unique and customized survey experience for each participant.
+# Dynamic Survey Form# Dynamic Survey Form
+This project provides a dynamic survey form that adapts based on the user’s previous responses, creating a unique and customized survey experience for each participant. The project is implemented in two languages: C# and Python.
+
+---------------------------------------------
+
+- [Project Objective](#project-objective)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+  - [Python Implementation](#python-implementation)
+  - [C# Implementation](#c-implementation)
+- [Installation Instructions](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+
+---------------------------------------------
+
 
 ---------------------------------------------
 
